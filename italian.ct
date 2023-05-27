@@ -1,13 +1,14 @@
 ## version $VER: wanderer.catalog 3.1 (25.04.2023)
 ## language italiano
 ## codeset 0
+; Authors: AMIGASYSTEM
 ;
 MSG_NAME
-Preferenze di Wanderer
+Preferenze Wanderer
 ; Wanderer Prefs
 ;
 MSG_DESCRIPTION
-Impostazioni di Wanderer
+Impostazioni Wanderer
 ; Wanderer preferences
 ;
 MSG_BACKGROUNDS
@@ -23,11 +24,11 @@ Cassetti
 ; Drawers
 ;
 MSG_SELECT_WORKBENCH_BACKGROUND
-Scegli uno sfondo per il Workbench
+Seleziona sfondo per il Workbench
 ; Select Workbench Background
 ;
 MSG_SELECT_DRAWER_BACKGROUND
-Scegli uno sfondo per i cassetti
+Seleziona sfondo per i cassetti
 ; Select Drawer Background
 ;
 MSG_GENERAL
@@ -75,7 +76,7 @@ Aspetto e comportamento delle icone
 ; Icons look and feel
 ;
 MSG_ICONLISTMODE
-Modalità di elencazione
+Modalità elencazione
 ; Icon listmode
 ;
 MSG_ICONLISTMODE_PLAIN
@@ -121,10 +122,10 @@ MSG_BUBBLESCREENTITLE
 %PC = Memia Chip\n\
 %PF = Memoria Fast\n\
 %PT = Memoria RAM totale\n\
-%os = Versione di AROS\n\
-%wb = Versione di Wanderer\n\
-%ov = Versione esatta di AROS\n\
-%wv = Versione esatta di workbench.library
+%os = Versione AROS\n\
+%wb = Versione Wanderer\n\
+%ov = Versione esatta AROS\n\
+%wv = Versione esatta workbench.library
 ; %pc = Chip Ram libera\n\
 ; %pf = Fast Ram libera\n\
 ; %pt = Total Ram libera\n\
