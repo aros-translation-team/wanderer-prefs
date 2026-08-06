@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 1.0 (14.02.2004)
+## version $VER: wanderer.catalog 3.0 (06.08.2026)
 ## language svenska
 ## codeset 0
 ;
@@ -6,6 +6,10 @@
 MSG_NAME
 Wandererinställningar
 ; Wanderer Preferences
+;
+MSG_DESCRIPTION
+Wandererinställningar
+; Wanderer preferences
 ;
 MSG_BACKGROUNDS
 Bakgrunder
@@ -26,4 +30,284 @@ Välj arbetsbänkens bakgrund
 MSG_SELECT_DRAWER_BACKGROUND
 Välj lådornas bakgrund
 ; Select Drawer Background
+;
+MSG_GENERAL
+Diverse
+; General
+;
+MSG_APPEARANCE
+Utseende
+; Appearance
+;
+MSG_TOOLBAR
+Verktygsrad
+; Toolbar
+;
+MSG_CLASSIC
+Klassisk
+; Classic
+;
+MSG_ENHANCED
+Utökad
+; Enhanced
+;
+MSG_NAVIGATION
+Förflyttning
+; Navigation
+;
+MSG_METHOD
+Metod
+; Method
+;
+MSG_OBJECTS
+Objekt
+; Objects
+;
+MSG_PREVIEW
+Förhandsgranskning
+; Preview
+;
+MSG_TOOLBAR_ENABLED
+Verktygsrad aktiverad
+; Toolbar Enabled
+;
+MSG_ICONSPREFS
+Symbolernas utseende
+; Icons look and feel
+;
+MSG_ICONLISTMODE
+Listläge för symboler
+; Icon listmode
+;
+MSG_ICONLISTMODE_PLAIN
+Lista symboler enkelt
+; List icons plainly
+;
+MSG_ICONLISTMODE_GRID
+Lista symboler i rutnät
+; List icons by grid
+;
+MSG_ICONTEXTMODE
+Ritläge för symboltext
+; Icons text drawmode
+;
+MSG_ICONTEXTMODE_OUTLINE
+Kontur
+; Outline
+;
+MSG_ICONTEXTMODE_PLAIN
+Enkel
+; Plain
+;
+MSG_ICONTEXTMODE_SHADOW
+Skugga
+; Drop shadow
+;
+MSG_ICONTEXTLENGTH
+Max textlängd för symboler
+; Max icon textlength
+;
+MSG_DOUBLEBUFFERED
+dubbelbuffring
+; double buffering
+;
+MSG_MISC
+övrigt
+; misc
+;
+MSG_BUBBLESCREENTITLE
+%pc = ledigt Chip Ram\n%pf = ledigt Fast Ram\n%pt = totalt ledigt Ram\n%PC = Chip Ram\n%PF = Fast Ram\n%PT = totalt Ram\n%os = AROS-version\n%wb = Wanderer-version\n%ov = exakt AROS-version\n%wv = exakt workbench.library-version
+; %pc = Chip Ram free\n%pf = Fast Ram free\n%pt = Total Ram free\n%PC = Chip Ram\n%PF = Fast Ram\n%PT = Total Ram\n%os = AROS version\n%wb = Wanderer version\n%ov = Exact AROS version\n%wv = Exact workbench.library version
+;
+MSG_TILEMODE
+Upprepningsläge :
+; Tile mode :
+;
+MSG_XOFFSET
+X-förskjutning :
+; X Offset :
+;
+MSG_YOFFSET
+Y-förskjutning :
+; Y Offset :
+;
+MSG_ICONLABELFONT
+Typsnitt för symboletiketter...
+; Icon Label Font...
+;
+MSG_ICONINFOFONT
+Typsnitt för symbolinfo...
+; Icon Info Font...
+;
+MSG_HORIZSPACINGICON
+Horisontellt avstånd mellan symboler
+; Horizontal spacing between icons
+;
+MSG_VERTSPACINGICON
+Vertikalt avstånd mellan symboler
+; Vertical spacing between icons
+;
+MSG_PADDINGICONIMAGELABEL
+Utfyllnad mellan symbolbild och etikett
+; Padding between Icon Image and Label
+;
+MSG_HORIZPADDINGLABELTEXT
+Horisontell utfyllnad mellan etikettram och text
+; Horizontal Padding between Label Frame and Text
+;
+MSG_VERTPADDINGLABELTEXT
+Vertikal utfyllnad mellan etikettram och text
+; Vertical Padding between Label Frame and Text
+;
+MSG_FRAMEWIDTH
+Etikettramens bredd
+; Label Frame Width
+;
+MSG_FRAMEHEIGHT
+Etikettramens höjd
+; Label Frame Height
+;
+MSG_TILED
+Upprepad
+; Tiled
+;
+MSG_SCALED
+Skalad
+; Scaled
+;
+MSG_FLOATING
+Flytande
+; Floating
+;
+MSG_FIXED
+Fast
+; Fixed
+;
+MSG_LABELLINELENGTH
+Max. radlängd för etiketter...
+; Max. Label line length...
+;
+MSG_USEMULTILINELABELS
+Använd flerradiga etiketter
+; Use MultiLine Labels
+;
+MSG_SHOWFOCUSEDICON
+Visa endast för fokuserad symbol
+; Only show for Focus(ed) Icon
+;
+MSG_NDISPLAYLINES
+Antal rader att visa...
+; No. of lines to display...
+;
+MSG_TILEMODEOPTIONS
+Alternativ för upprepningsläge...
+; Tile Mode Options...
+;
+MSG_SCALEMODEOPTIONS
+Alternativ för skalningsläge...
+; Scale Mode Options...
+;
+MSG_ADVANCEDOPTIONS
+Avancerade alternativ...
+; Advanced Options...
+;
+MSG_BACKGROUNDOPTIONS
+Bakgrundsalternativ...
+; Background Options...
+;
+MSG_DRAWMODE
+Ritläge :
+; Draw mode :
+;
+MSG_USERFILEONWB
+Låda för användarfiler på arbetsbänken
+; User Files Folder on Workbench
+;
+MSG_NETWORKONWB
+Nätverksbläddrare på arbetsbänken
+; Network Browser on Workbench
+;
+MSG_VIEWSETTINGS
+Visningsinställningar
+; View Settings
+;
+MSG_WANDERERSCREENTITLE
+Wanderers skärmtitel
+; Wanderer ScreenTitle
+;
+MSG_ADVANCED
+Avancerat
+; Advanced
+;
+MSG_USE
+_Använd
+; _Use
+;
+MSG_CANCEL
+_Avbryt
+; C_ancel
+;
+MSG_LABELSPREFS
+Etiketternas utseende
+; Labels look and feel
+;
+MSG_ADVANCEDBACKGROUND
+Bakgrund
+; Background
+;
+MSG_ADVANCEDICONS
+Symboler
+; Icons
+;
+MSG_ADVANCEDLABELS
+Etiketter
+; Labels
+;
+MSG_ICONSORTMODE_BYNAME
+Efter namn
+; By name
+;
+MSG_ICONSORTMODE_BYDATE
+Efter datum
+; By date
+;
+MSG_ICONSORTMODE_BYSIZE
+Efter storlek
+; By size
+;
+MSG_DEFAULT_ICONSORTMODE
+Förvald sorteringsordning
+; Default sort order
+;
+MSG_ICON_AUTOSORT_ENABLED
+Automatisk sortering aktiverad
+; Autosorting enabled
+;
+MSG_ICON_DRAG_TRANSPARENT
+Använd genomskinlighet när symboler dras
+; Use transparency when draging icons
+;
+MSG_DEFAULT_ICONVIEWMODE
+Förvalt visningsläge
+; Default view mode
+;
+MSG_ICONVIEWMODE_ALL
+Alla filer
+; All files
+;
+MSG_ICONVIEWMODE_ICONS
+Endast symboler
+; Icons only
+;
+MSG_ICONDROPMODE
+Kopiera eller flytta filer som släpps på samma enhet
+; Copy or move files placed on same device
+;
+MSG_ICONDROPMODE_MOVE
+Flytta
+; Move
+;
+MSG_ICONDROPMODE_COPY
+Kopiera
+; Copy
 ;

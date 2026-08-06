@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 3.0 (30.03.2016)
+## version $VER: wanderer.catalog 3.0 (06.08.2026)
 ## language français
 ## codeset 0
 ;
@@ -316,4 +316,16 @@ Tous les fichiers
 MSG_ICONVIEWMODE_ICONS
 Icônes seulement
 ; Icons only
+;
+MSG_ICONDROPMODE
+Copier ou déplacer les fichiers déposés sur le même périphérique
+; Copy or move files placed on same device
+;
+MSG_ICONDROPMODE_MOVE
+Déplacer
+; Move
+;
+MSG_ICONDROPMODE_COPY
+Copier
+; Copy
 ;

@@ -1,4 +1,4 @@
-## version $VER: Wanderer.catalog 3.0 (30.03.2016)
+## version $VER: Wanderer.catalog 3.0 (06.08.2026)
 ## language czech
 ## codeset 5
 ;
@@ -316,4 +316,16 @@ V¹echny soubory
 MSG_ICONVIEWMODE_ICONS
 Pouze s ikonami
 ; Icons only
+;
+MSG_ICONDROPMODE
+Kopírovat nebo pøesunout soubory v rámci stejného zaøízení
+; Copy or move files placed on same device
+;
+MSG_ICONDROPMODE_MOVE
+Pøesunout
+; Move
+;
+MSG_ICONDROPMODE_COPY
+Zkopírovat
+; Copy
 ;

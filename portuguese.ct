@@ -1,4 +1,4 @@
-## version $VER: wanderer.catalog 1.0 (23.09.2008)
+## version $VER: wanderer.catalog 3.0 (06.08.2026)
 ## language português
 ## codeset 0
 ;
@@ -105,6 +105,10 @@ MSG_ICONTEXTMODE_PLAIN
 Normal
 ;Plain
 ;
+MSG_ICONTEXTMODE_SHADOW
+Com sombra
+; Drop shadow
+;
 MSG_ICONTEXTLENGTH
 Largura máximo
 ;Longitud máxima del texto
@@ -129,4 +133,196 @@ MSG_BUBBLESCREENTITLE
 %wb = Versão do Wanderer\n\
 %ov = Versão exacta do AROS\n\
 %wv = Versão exacta da workbench.library
+;
+MSG_TILEMODE
+Modo de mosaico :
+; Tile mode :
+;
+MSG_XOFFSET
+Deslocamento X :
+; X Offset :
+;
+MSG_YOFFSET
+Deslocamento Y :
+; Y Offset :
+;
+MSG_ICONLABELFONT
+Fonte das legendas dos ícones...
+; Icon Label Font...
+;
+MSG_ICONINFOFONT
+Fonte da informação dos ícones...
+; Icon Info Font...
+;
+MSG_HORIZSPACINGICON
+Espaçamento horizontal entre ícones
+; Horizontal spacing between icons
+;
+MSG_VERTSPACINGICON
+Espaçamento vertical entre ícones
+; Vertical spacing between icons
+;
+MSG_PADDINGICONIMAGELABEL
+Espaço entre a imagem do ícone e a legenda
+; Padding between Icon Image and Label
+;
+MSG_HORIZPADDINGLABELTEXT
+Espaço horizontal entre a moldura da legenda e o texto
+; Horizontal Padding between Label Frame and Text
+;
+MSG_VERTPADDINGLABELTEXT
+Espaço vertical entre a moldura da legenda e o texto
+; Vertical Padding between Label Frame and Text
+;
+MSG_FRAMEWIDTH
+Largura da moldura da legenda
+; Label Frame Width
+;
+MSG_FRAMEHEIGHT
+Altura da moldura da legenda
+; Label Frame Height
+;
+MSG_TILED
+Em mosaico
+; Tiled
+;
+MSG_SCALED
+Redimensionado
+; Scaled
+;
+MSG_FLOATING
+Flutuante
+; Floating
+;
+MSG_FIXED
+Fixo
+; Fixed
+;
+MSG_LABELLINELENGTH
+Comprimento máx. da linha da legenda...
+; Max. Label line length...
+;
+MSG_USEMULTILINELABELS
+Usar legendas multilinha
+; Use MultiLine Labels
+;
+MSG_SHOWFOCUSEDICON
+Mostrar apenas no ícone focado
+; Only show for Focus(ed) Icon
+;
+MSG_NDISPLAYLINES
+N.º de linhas a mostrar...
+; No. of lines to display...
+;
+MSG_TILEMODEOPTIONS
+Opções do modo mosaico...
+; Tile Mode Options...
+;
+MSG_SCALEMODEOPTIONS
+Opções do modo de escala...
+; Scale Mode Options...
+;
+MSG_ADVANCEDOPTIONS
+Opções avançadas...
+; Advanced Options...
+;
+MSG_BACKGROUNDOPTIONS
+Opções do fundo...
+; Background Options...
+;
+MSG_DRAWMODE
+Modo de desenho :
+; Draw mode :
+;
+MSG_USERFILEONWB
+Pasta de ficheiros do utilizador no Workbench
+; User Files Folder on Workbench
+;
+MSG_NETWORKONWB
+Navegador de rede no Workbench
+; Network Browser on Workbench
+;
+MSG_VIEWSETTINGS
+Definições de visualização
+; View Settings
+;
+MSG_WANDERERSCREENTITLE
+Título do ecrã do Wanderer
+; Wanderer ScreenTitle
+;
+MSG_ADVANCED
+Avançado
+; Advanced
+;
+MSG_USE
+_Usar
+; _Use
+;
+MSG_CANCEL
+C_ancelar
+; C_ancel
+;
+MSG_LABELSPREFS
+apresentação das legendas
+; Labels look and feel
+;
+MSG_ADVANCEDBACKGROUND
+Fundo
+; Background
+;
+MSG_ADVANCEDICONS
+Ícones
+; Icons
+;
+MSG_ADVANCEDLABELS
+Legendas
+; Labels
+;
+MSG_ICONSORTMODE_BYNAME
+Por nome
+; By name
+;
+MSG_ICONSORTMODE_BYDATE
+Por data
+; By date
+;
+MSG_ICONSORTMODE_BYSIZE
+Por tamanho
+; By size
+;
+MSG_DEFAULT_ICONSORTMODE
+Ordenação predefinida
+; Default sort order
+;
+MSG_ICON_AUTOSORT_ENABLED
+Ordenação automática activada
+; Autosorting enabled
+;
+MSG_ICON_DRAG_TRANSPARENT
+Usar transparência ao arrastar ícones
+; Use transparency when draging icons
+;
+MSG_DEFAULT_ICONVIEWMODE
+Modo de visualização predefinido
+; Default view mode
+;
+MSG_ICONVIEWMODE_ALL
+Todos ficheiros
+; All files
+;
+MSG_ICONVIEWMODE_ICONS
+Apenas ícones
+; Icons only
+;
+MSG_ICONDROPMODE
+Copiar ou mover ficheiros largados no mesmo dispositivo
+; Copy or move files placed on same device
+;
+MSG_ICONDROPMODE_MOVE
+Mover
+; Move
+;
+MSG_ICONDROPMODE_COPY
+Copiar
+; Copy
 ;

@@ -1,4 +1,4 @@
-## version $VER: Wanderer.catalog 1.3 (23.12.2009)
+## version $VER: Wanderer.catalog 3.0 (06.08.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -264,4 +264,68 @@ Koristi
 MSG_CANCEL
 Odustani
 ; &Cancel
+;
+MSG_LABELSPREFS
+Izgled i Pona¹anje Natpisa
+; Labels look and feel
+;
+MSG_ADVANCEDBACKGROUND
+Podloga
+; Background
+;
+MSG_ADVANCEDICONS
+Ikone
+; Icons
+;
+MSG_ADVANCEDLABELS
+Natpisi
+; Labels
+;
+MSG_ICONSORTMODE_BYNAME
+Po Imenu
+; By name
+;
+MSG_ICONSORTMODE_BYDATE
+Po Datumu
+; By date
+;
+MSG_ICONSORTMODE_BYSIZE
+Po Velièini
+; By size
+;
+MSG_DEFAULT_ICONSORTMODE
+Predlo¾eni redoslijed sortiranja
+; Default sort order
+;
+MSG_ICON_AUTOSORT_ENABLED
+Automatsko sortiranje omoguæeno
+; Autosorting enabled
+;
+MSG_ICON_DRAG_TRANSPARENT
+Koristi prozirnost pri povlaèenju ikona
+; Use transparency when draging icons
+;
+MSG_DEFAULT_ICONVIEWMODE
+Predlo¾eni mod prikaza
+; Default view mode
+;
+MSG_ICONVIEWMODE_ALL
+Sve Datoteke
+; All files
+;
+MSG_ICONVIEWMODE_ICONS
+Samo ikone
+; Icons only
+;
+MSG_ICONDROPMODE
+Kopiraj ili premjesti datoteke stavljene na isti ureðaj
+; Copy or move files placed on same device
+;
+MSG_ICONDROPMODE_MOVE
+Premjesti
+; Move
+;
+MSG_ICONDROPMODE_COPY
+Kopiraj
+; Copy
 ;
