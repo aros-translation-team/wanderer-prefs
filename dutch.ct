@@ -1,0 +1,312 @@
+## version $VER: wanderer.catalog 3.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_NAME
+Wanderer-instellingen
+; Wanderer Prefs
+;
+MSG_DESCRIPTION
+Wanderer-instellingen
+; Wanderer preferences
+;
+MSG_BACKGROUNDS
+Achtergronden
+; Backgrounds
+;
+MSG_BACKGROUND_WORKBENCH
+Workbench
+; Workbench
+;
+MSG_BACKGROUND_DRAWERS
+Laden
+; Drawers
+;
+MSG_SELECT_WORKBENCH_BACKGROUND
+Kies Workbench-achtergrond
+; Select Workbench Background
+;
+MSG_SELECT_DRAWER_BACKGROUND
+Kies mapachtergrond
+; Select Drawer Background
+;
+MSG_GENERAL
+Algemeen
+; General
+;
+MSG_APPEARANCE
+Uiterlijk
+; Appearance
+;
+MSG_TOOLBAR
+Werkbalk
+; Toolbar
+;
+MSG_CLASSIC
+Klassiek
+; Classic
+;
+MSG_ENHANCED
+Verbeterd
+; Enhanced
+;
+MSG_NAVIGATION
+Navigatie
+; Navigation
+;
+MSG_METHOD
+Methode
+; Method
+;
+MSG_OBJECTS
+Objecten
+; Objects
+;
+MSG_PREVIEW
+Voorbeeld
+; Preview
+;
+MSG_TOOLBAR_ENABLED
+Werkbalk ingeschakeld
+; Toolbar Enabled
+;
+MSG_ICONSPREFS
+Uiterlijk van iconen
+; Icons look and feel
+;
+MSG_ICONLISTMODE
+Icoonlijstmodus
+; Icon listmode
+;
+MSG_ICONLISTMODE_PLAIN
+Toon iconen eenvoudig
+; List icons plainly
+;
+MSG_ICONLISTMODE_GRID
+Toon iconen in raster
+; List icons by grid
+;
+MSG_ICONTEXTMODE
+Tekenmodus icoontekst
+; Icons text drawmode
+;
+MSG_ICONTEXTMODE_OUTLINE
+Omlijnd
+; Outline
+;
+MSG_ICONTEXTMODE_PLAIN
+Normaal
+; Plain
+;
+MSG_ICONTEXTMODE_SHADOW
+Slagschaduw
+; Drop shadow
+;
+MSG_ICONTEXTLENGTH
+Max. icoontekstlengte
+; Max icon textlength
+;
+MSG_DOUBLEBUFFERED
+dubbele buffering
+; double buffering
+;
+MSG_MISC
+overig
+; misc
+;
+MSG_BUBBLESCREENTITLE
+%pc = Chip-RAM vrij\n%pf = Fast-RAM vrij\n%pt = Totaal RAM vrij\n%PC = Chip-RAM\n%PF = Fast-RAM\n%PT = Totaal RAM\n%os = AROS-versie\n%wb = Wanderer-versie\n%ov = Exacte AROS-versie\n%wv = Exacte workbench.library-versie
+; %pc = Chip Ram free\n%pf = Fast Ram free\n%pt = Total Ram free\n%PC = Chip Ram\n%PF = Fast Ram\n%PT = Total Ram\n%os = AROS version\n%wb = Wanderer version\n%ov = Exact AROS version\n%wv = Exact workbench.library version
+;
+MSG_TILEMODE
+Tegelmodus :
+; Tile mode :
+;
+MSG_XOFFSET
+X-verschuiving :
+; X Offset :
+;
+MSG_YOFFSET
+Y-verschuiving :
+; Y Offset :
+;
+MSG_ICONLABELFONT
+Font voor icoonlabel...
+; Icon Label Font...
+;
+MSG_ICONINFOFONT
+Font voor icooninformatie...
+; Icon Info Font...
+;
+MSG_HORIZSPACINGICON
+Horizontale afstand tussen iconen
+; Horizontal spacing between icons
+;
+MSG_VERTSPACINGICON
+Verticale afstand tussen iconen
+; Vertical spacing between icons
+;
+MSG_PADDINGICONIMAGELABEL
+Ruimte tussen icoonafbeelding en label
+; Padding between Icon Image and Label
+;
+MSG_HORIZPADDINGLABELTEXT
+Horizontale ruimte tussen labelkader en tekst
+; Horizontal Padding between Label Frame and Text
+;
+MSG_VERTPADDINGLABELTEXT
+Verticale ruimte tussen labelkader en tekst
+; Vertical Padding between Label Frame and Text
+;
+MSG_FRAMEWIDTH
+Breedte labelkader
+; Label Frame Width
+;
+MSG_FRAMEHEIGHT
+Hoogte labelkader
+; Label Frame Height
+;
+MSG_TILED
+Getegeld
+; Tiled
+;
+MSG_SCALED
+Geschaald
+; Scaled
+;
+MSG_FLOATING
+Zwevend
+; Floating
+;
+MSG_FIXED
+Vast
+; Fixed
+;
+MSG_LABELLINELENGTH
+Max. lengte labelregel...
+; Max. Label line length...
+;
+MSG_USEMULTILINELABELS
+Gebruik labels met meerdere regels
+; Use MultiLine Labels
+;
+MSG_SHOWFOCUSEDICON
+Alleen tonen voor icoon met focus
+; Only show for Focus(ed) Icon
+;
+MSG_NDISPLAYLINES
+Aantal te tonen regels...
+; No. of lines to display...
+;
+MSG_TILEMODEOPTIONS
+Opties voor tegelmodus...
+; Tile Mode Options...
+;
+MSG_SCALEMODEOPTIONS
+Opties voor schaalmodus...
+; Scale Mode Options...
+;
+MSG_ADVANCEDOPTIONS
+Geavanceerde opties...
+; Advanced Options...
+;
+MSG_BACKGROUNDOPTIONS
+Achtergrondopties...
+; Background Options...
+;
+MSG_DRAWMODE
+Tekenmodus :
+; Draw mode :
+;
+MSG_USERFILEONWB
+Map met gebruikersbestanden op Workbench
+; User Files Folder on Workbench
+;
+MSG_NETWORKONWB
+Netwerkbrowser op Workbench
+; Network Browser on Workbench
+;
+MSG_VIEWSETTINGS
+Weergave-instellingen
+; View Settings
+;
+MSG_WANDERERSCREENTITLE
+Wanderer-schermtitel
+; Wanderer ScreenTitle
+;
+MSG_ADVANCED
+Geavanceerd
+; Advanced
+;
+MSG_USE
+_Gebruik
+; _Use
+;
+MSG_CANCEL
+_Annuleer
+; C_ancel
+;
+MSG_LABELSPREFS
+Uiterlijk van labels
+; Labels look and feel
+;
+MSG_ADVANCEDBACKGROUND
+Achtergrond
+; Background
+;
+MSG_ADVANCEDICONS
+Iconen
+; Icons
+;
+MSG_ADVANCEDLABELS
+Labels
+; Labels
+;
+MSG_ICONSORTMODE_BYNAME
+Op naam
+; By name
+;
+MSG_ICONSORTMODE_BYDATE
+Op datum
+; By date
+;
+MSG_ICONSORTMODE_BYSIZE
+Op grootte
+; By size
+;
+MSG_DEFAULT_ICONSORTMODE
+Standaard sorteervolgorde
+; Default sort order
+;
+MSG_ICON_AUTOSORT_ENABLED
+Automatisch sorteren ingeschakeld
+; Autosorting enabled
+;
+MSG_ICON_DRAG_TRANSPARENT
+Gebruik transparantie bij slepen van iconen
+; Use transparency when draging icons
+;
+MSG_DEFAULT_ICONVIEWMODE
+Standaard weergavemodus
+; Default view mode
+;
+MSG_ICONVIEWMODE_ALL
+Alle Bestanden
+; All files
+;
+MSG_ICONVIEWMODE_ICONS
+Alleen iconen
+; Icons only
+;
+MSG_ICONDROPMODE
+Kopieer of verplaats bestanden op hetzelfde apparaat
+; Copy or move files placed on same device
+;
+MSG_ICONDROPMODE_MOVE
+Verplaats
+; Move
+;
+MSG_ICONDROPMODE_COPY
+Kopieer
+; Copy
+;

@@ -1,0 +1,312 @@
+## version $VER: wanderer.catalog 3.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_NAME
+Wanderer Prefs
+; Wanderer Prefs
+;
+MSG_DESCRIPTION
+Wanderer podeÁavanja
+; Wanderer preferences
+;
+MSG_BACKGROUNDS
+Pozadine
+; Backgrounds
+;
+MSG_BACKGROUND_WORKBENCH
+Workbench
+; Workbench
+;
+MSG_BACKGROUND_DRAWERS
+Direktorijumi
+; Drawers
+;
+MSG_SELECT_WORKBENCH_BACKGROUND
+Izaberite pozadinu Workbench-a
+; Select Workbench Background
+;
+MSG_SELECT_DRAWER_BACKGROUND
+Izaberite pozadinu direktorijuma
+; Select Drawer Background
+;
+MSG_GENERAL
+OpÁte
+; General
+;
+MSG_APPEARANCE
+Izgled
+; Appearance
+;
+MSG_TOOLBAR
+Traka sa alatkama
+; Toolbar
+;
+MSG_CLASSIC
+Klasiüan
+; Classic
+;
+MSG_ENHANCED
+PoboljÁano
+; Enhanced
+;
+MSG_NAVIGATION
+Navigacija
+; Navigation
+;
+MSG_METHOD
+Metod
+; Method
+;
+MSG_OBJECTS
+Objekti
+; Objects
+;
+MSG_PREVIEW
+Pregled
+; Preview
+;
+MSG_TOOLBAR_ENABLED
+Traka sa alatkama ukljuüena
+; Toolbar Enabled
+;
+MSG_ICONSPREFS
+Izgled i ponaÁanje ikona
+; Icons look and feel
+;
+MSG_ICONLISTMODE
+Reßim liste ikona
+; Icon listmode
+;
+MSG_ICONLISTMODE_PLAIN
+Prikaßi ikone obiüno
+; List icons plainly
+;
+MSG_ICONLISTMODE_GRID
+Prikaßi ikone po mreßi
+; List icons by grid
+;
+MSG_ICONTEXTMODE
+Reßim crtanja teksta ikona
+; Icons text drawmode
+;
+MSG_ICONTEXTMODE_OUTLINE
+Kontura
+; Outline
+;
+MSG_ICONTEXTMODE_PLAIN
+Obiüno
+; Plain
+;
+MSG_ICONTEXTMODE_SHADOW
+Senka
+; Drop shadow
+;
+MSG_ICONTEXTLENGTH
+Maks. dußina teksta ikone
+; Max icon textlength
+;
+MSG_DOUBLEBUFFERED
+dvostruko baferovanje
+; double buffering
+;
+MSG_MISC
+razno
+; misc
+;
+MSG_BUBBLESCREENTITLE
+%pc = Slobodna Chip Ram\n%pf = Slobodna Fast Ram\n%pt = Ukupno slobodne Ram\n%PC = Chip Ram\n%PF = Fast Ram\n%PT = Ukupno Ram\n%os = AROS verzija\n%wb = Wanderer verzija\n%ov = Taüna AROS verzija\n%wv = Taüna workbench.library verzija
+; %pc = Chip Ram free\n%pf = Fast Ram free\n%pt = Total Ram free\n%PC = Chip Ram\n%PF = Fast Ram\n%PT = Total Ram\n%os = AROS version\n%wb = Wanderer version\n%ov = Exact AROS version\n%wv = Exact workbench.library version
+;
+MSG_TILEMODE
+Reßim poploüavanja :
+; Tile mode :
+;
+MSG_XOFFSET
+X pomeraj :
+; X Offset :
+;
+MSG_YOFFSET
+Y pomeraj :
+; Y Offset :
+;
+MSG_ICONLABELFONT
+Font natpisa ikone...
+; Icon Label Font...
+;
+MSG_ICONINFOFONT
+Font info teksta ikone...
+; Icon Info Font...
+;
+MSG_HORIZSPACINGICON
+Horizontalni razmak izme–u ikona
+; Horizontal spacing between icons
+;
+MSG_VERTSPACINGICON
+Vertikalni razmak izme–u ikona
+; Vertical spacing between icons
+;
+MSG_PADDINGICONIMAGELABEL
+Razmak izme–u slike ikone i natpisa
+; Padding between Icon Image and Label
+;
+MSG_HORIZPADDINGLABELTEXT
+Horizontalni razmak izme–u okvira natpisa i teksta
+; Horizontal Padding between Label Frame and Text
+;
+MSG_VERTPADDINGLABELTEXT
+Vertikalni razmak izme–u okvira natpisa i teksta
+; Vertical Padding between Label Frame and Text
+;
+MSG_FRAMEWIDTH
+Êirina okvira natpisa
+; Label Frame Width
+;
+MSG_FRAMEHEIGHT
+Visina okvira natpisa
+; Label Frame Height
+;
+MSG_TILED
+Poploüano
+; Tiled
+;
+MSG_SCALED
+Skalirano
+; Scaled
+;
+MSG_FLOATING
+PlutajuÜe
+; Floating
+;
+MSG_FIXED
+Fiksno
+; Fixed
+;
+MSG_LABELLINELENGTH
+Maks. dußina linije natpisa...
+; Max. Label line length...
+;
+MSG_USEMULTILINELABELS
+Koristi natpise u viÁe linija
+; Use MultiLine Labels
+;
+MSG_SHOWFOCUSEDICON
+Prikaßi samo za fokusiranu ikonu
+; Only show for Focus(ed) Icon
+;
+MSG_NDISPLAYLINES
+Broj linija za prikaz...
+; No. of lines to display...
+;
+MSG_TILEMODEOPTIONS
+Opcije reßima poploüavanja...
+; Tile Mode Options...
+;
+MSG_SCALEMODEOPTIONS
+Opcije reßima skaliranja...
+; Scale Mode Options...
+;
+MSG_ADVANCEDOPTIONS
+Napredne opcije...
+; Advanced Options...
+;
+MSG_BACKGROUNDOPTIONS
+Opcije pozadine...
+; Background Options...
+;
+MSG_DRAWMODE
+Reßim crtanja :
+; Draw mode :
+;
+MSG_USERFILEONWB
+Direktorijum korisniükih fajlova na Workbench-u
+; User Files Folder on Workbench
+;
+MSG_NETWORKONWB
+Mreßni pregledaü na Workbench-u
+; Network Browser on Workbench
+;
+MSG_VIEWSETTINGS
+PodeÁavanja prikaza
+; View Settings
+;
+MSG_WANDERERSCREENTITLE
+Wanderer naslov ekrana
+; Wanderer ScreenTitle
+;
+MSG_ADVANCED
+Napredno
+; Advanced
+;
+MSG_USE
+_Koristi
+; _Use
+;
+MSG_CANCEL
+Odust_ani
+; C_ancel
+;
+MSG_LABELSPREFS
+Izgled i ponaÁanje natpisa
+; Labels look and feel
+;
+MSG_ADVANCEDBACKGROUND
+Pozadina
+; Background
+;
+MSG_ADVANCEDICONS
+Ikone
+; Icons
+;
+MSG_ADVANCEDLABELS
+Natpisi
+; Labels
+;
+MSG_ICONSORTMODE_BYNAME
+Po imenu
+; By name
+;
+MSG_ICONSORTMODE_BYDATE
+Po datumu
+; By date
+;
+MSG_ICONSORTMODE_BYSIZE
+Po veliüini
+; By size
+;
+MSG_DEFAULT_ICONSORTMODE
+Podrazumevani redosled sortiranja
+; Default sort order
+;
+MSG_ICON_AUTOSORT_ENABLED
+Automatsko sortiranje ukljuüeno
+; Autosorting enabled
+;
+MSG_ICON_DRAG_TRANSPARENT
+Koristi providnost pri prevlaüenju ikona
+; Use transparency when draging icons
+;
+MSG_DEFAULT_ICONVIEWMODE
+Podrazumevani reßim prikaza
+; Default view mode
+;
+MSG_ICONVIEWMODE_ALL
+Svi fajlovi
+; All files
+;
+MSG_ICONVIEWMODE_ICONS
+Samo ikone
+; Icons only
+;
+MSG_ICONDROPMODE
+Kopiraj ili premesti fajlove na istom ure–aju
+; Copy or move files placed on same device
+;
+MSG_ICONDROPMODE_MOVE
+Premesti
+; Move
+;
+MSG_ICONDROPMODE_COPY
+Kopiraj
+; Copy
+;

@@ -1,0 +1,312 @@
+## version $VER: wanderer.catalog 3.0 (06.08.2026)
+## language dansk
+## codeset 0
+;
+MSG_NAME
+Wanderer-indstillinger
+; Wanderer Prefs
+;
+MSG_DESCRIPTION
+Indstillinger for Wanderer
+; Wanderer preferences
+;
+MSG_BACKGROUNDS
+Baggrunde
+; Backgrounds
+;
+MSG_BACKGROUND_WORKBENCH
+;** Workbench
+; Workbench
+;
+MSG_BACKGROUND_DRAWERS
+Skuffer
+; Drawers
+;
+MSG_SELECT_WORKBENCH_BACKGROUND
+Vælg Workbench-baggrund
+; Select Workbench Background
+;
+MSG_SELECT_DRAWER_BACKGROUND
+Vælg skuffebaggrund
+; Select Drawer Background
+;
+MSG_GENERAL
+Diverse
+; General
+;
+MSG_APPEARANCE
+Udseende
+; Appearance
+;
+MSG_TOOLBAR
+Værktøjslinje
+; Toolbar
+;
+MSG_CLASSIC
+Klassisk
+; Classic
+;
+MSG_ENHANCED
+Udvidet
+; Enhanced
+;
+MSG_NAVIGATION
+Navigering
+; Navigation
+;
+MSG_METHOD
+Metode
+; Method
+;
+MSG_OBJECTS
+Objekter
+; Objects
+;
+MSG_PREVIEW
+Forhåndsvisning
+; Preview
+;
+MSG_TOOLBAR_ENABLED
+Værktøjslinje aktiveret
+; Toolbar Enabled
+;
+MSG_ICONSPREFS
+Ikonernes udseende og opførsel
+; Icons look and feel
+;
+MSG_ICONLISTMODE
+Ikonlistetilstand
+; Icon listmode
+;
+MSG_ICONLISTMODE_PLAIN
+Vis ikoner uden gitter
+; List icons plainly
+;
+MSG_ICONLISTMODE_GRID
+Vis ikoner i gitter
+; List icons by grid
+;
+MSG_ICONTEXTMODE
+Tegnetilstand for ikontekst
+; Icons text drawmode
+;
+MSG_ICONTEXTMODE_OUTLINE
+Kontur
+; Outline
+;
+MSG_ICONTEXTMODE_PLAIN
+Almindelig
+; Plain
+;
+MSG_ICONTEXTMODE_SHADOW
+Skygge
+; Drop shadow
+;
+MSG_ICONTEXTLENGTH
+Maks. ikontekstlængde
+; Max icon textlength
+;
+MSG_DOUBLEBUFFERED
+dobbeltbuffering
+; double buffering
+;
+MSG_MISC
+diverse
+; misc
+;
+MSG_BUBBLESCREENTITLE
+%pc = Fri Chip Ram\n%pf = Fri Fast Ram\n%pt = Fri Ram i alt\n%PC = Chip Ram\n%PF = Fast Ram\n%PT = Ram i alt\n%os = AROS-version\n%wb = Wanderer-version\n%ov = Nøjagtig AROS-version\n%wv = Nøjagtig workbench.library-version
+; %pc = Chip Ram free\n%pf = Fast Ram free\n%pt = Total Ram free\n%PC = Chip Ram\n%PF = Fast Ram\n%PT = Total Ram\n%os = AROS version\n%wb = Wanderer version\n%ov = Exact AROS version\n%wv = Exact workbench.library version
+;
+MSG_TILEMODE
+Flisetilstand :
+; Tile mode :
+;
+MSG_XOFFSET
+X-forskydning :
+; X Offset :
+;
+MSG_YOFFSET
+Y-forskydning :
+; Y Offset :
+;
+MSG_ICONLABELFONT
+Skrifttype til ikonetiketter...
+; Icon Label Font...
+;
+MSG_ICONINFOFONT
+Skrifttype til ikonoplysninger...
+; Icon Info Font...
+;
+MSG_HORIZSPACINGICON
+Vandret afstand mellem ikoner
+; Horizontal spacing between icons
+;
+MSG_VERTSPACINGICON
+Lodret afstand mellem ikoner
+; Vertical spacing between icons
+;
+MSG_PADDINGICONIMAGELABEL
+Afstand mellem ikonbillede og etiket
+; Padding between Icon Image and Label
+;
+MSG_HORIZPADDINGLABELTEXT
+Vandret afstand mellem etiketramme og tekst
+; Horizontal Padding between Label Frame and Text
+;
+MSG_VERTPADDINGLABELTEXT
+Lodret afstand mellem etiketramme og tekst
+; Vertical Padding between Label Frame and Text
+;
+MSG_FRAMEWIDTH
+Etiketrammens bredde
+; Label Frame Width
+;
+MSG_FRAMEHEIGHT
+Etiketrammens højde
+; Label Frame Height
+;
+MSG_TILED
+Fliselagt
+; Tiled
+;
+MSG_SCALED
+Skaleret
+; Scaled
+;
+MSG_FLOATING
+Flydende
+; Floating
+;
+MSG_FIXED
+Fast
+; Fixed
+;
+MSG_LABELLINELENGTH
+Maks. længde på etiketlinje...
+; Max. Label line length...
+;
+MSG_USEMULTILINELABELS
+Brug etiketter med flere linjer
+; Use MultiLine Labels
+;
+MSG_SHOWFOCUSEDICON
+Vis kun for ikon med fokus
+; Only show for Focus(ed) Icon
+;
+MSG_NDISPLAYLINES
+Antal linjer der skal vises...
+; No. of lines to display...
+;
+MSG_TILEMODEOPTIONS
+Indstillinger for flisetilstand...
+; Tile Mode Options...
+;
+MSG_SCALEMODEOPTIONS
+Indstillinger for skaleringstilstand...
+; Scale Mode Options...
+;
+MSG_ADVANCEDOPTIONS
+Avancerede indstillinger...
+; Advanced Options...
+;
+MSG_BACKGROUNDOPTIONS
+Baggrundsindstillinger...
+; Background Options...
+;
+MSG_DRAWMODE
+Tegnetilstand :
+; Draw mode :
+;
+MSG_USERFILEONWB
+Mappe med brugerfiler på Workbench
+; User Files Folder on Workbench
+;
+MSG_NETWORKONWB
+Netværksbrowser på Workbench
+; Network Browser on Workbench
+;
+MSG_VIEWSETTINGS
+Visningsindstillinger
+; View Settings
+;
+MSG_WANDERERSCREENTITLE
+Wanderer-skærmtitel
+; Wanderer ScreenTitle
+;
+MSG_ADVANCED
+Avanceret
+; Advanced
+;
+MSG_USE
+_Brug
+; _Use
+;
+MSG_CANCEL
+_Afbryd
+; C_ancel
+;
+MSG_LABELSPREFS
+Etiketternes udseende og opførsel
+; Labels look and feel
+;
+MSG_ADVANCEDBACKGROUND
+Baggrundsfarve
+; Background
+;
+MSG_ADVANCEDICONS
+Ikoner
+; Icons
+;
+MSG_ADVANCEDLABELS
+Etiketter
+; Labels
+;
+MSG_ICONSORTMODE_BYNAME
+Efter navn
+; By name
+;
+MSG_ICONSORTMODE_BYDATE
+Efter dato
+; By date
+;
+MSG_ICONSORTMODE_BYSIZE
+Efter størrelse
+; By size
+;
+MSG_DEFAULT_ICONSORTMODE
+Standard sorteringsorden
+; Default sort order
+;
+MSG_ICON_AUTOSORT_ENABLED
+Automatisk sortering aktiveret
+; Autosorting enabled
+;
+MSG_ICON_DRAG_TRANSPARENT
+Brug gennemsigtighed ved træk af ikoner
+; Use transparency when draging icons
+;
+MSG_DEFAULT_ICONVIEWMODE
+Standard visningstilstand
+; Default view mode
+;
+MSG_ICONVIEWMODE_ALL
+Alle filer
+; All files
+;
+MSG_ICONVIEWMODE_ICONS
+Kun ikoner
+; Icons only
+;
+MSG_ICONDROPMODE
+Kopiér eller flyt filer placeret på samme enhed
+; Copy or move files placed on same device
+;
+MSG_ICONDROPMODE_MOVE
+Flyt
+; Move
+;
+MSG_ICONDROPMODE_COPY
+Kopiér
+; Copy
+;

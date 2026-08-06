@@ -1,0 +1,312 @@
+## version $VER: wanderer.catalog 3.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_NAME
+Prefs de Wanderer
+; Wanderer Prefs
+;
+MSG_DESCRIPTION
+Preferències de Wanderer
+; Wanderer preferences
+;
+MSG_BACKGROUNDS
+Fons
+; Backgrounds
+;
+MSG_BACKGROUND_WORKBENCH
+Workbench
+; Workbench
+;
+MSG_BACKGROUND_DRAWERS
+Calaixos
+; Drawers
+;
+MSG_SELECT_WORKBENCH_BACKGROUND
+Seleccionar el fons del Workbench
+; Select Workbench Background
+;
+MSG_SELECT_DRAWER_BACKGROUND
+Seleccionar el fons del calaix
+; Select Drawer Background
+;
+MSG_GENERAL
+General
+; General
+;
+MSG_APPEARANCE
+Aparença
+; Appearance
+;
+MSG_TOOLBAR
+Barra d'eines
+; Toolbar
+;
+MSG_CLASSIC
+Clàssic
+; Classic
+;
+MSG_ENHANCED
+Millorat
+; Enhanced
+;
+MSG_NAVIGATION
+Navegació
+; Navigation
+;
+MSG_METHOD
+Mètode
+; Method
+;
+MSG_OBJECTS
+Objectes
+; Objects
+;
+MSG_PREVIEW
+Vista prèvia
+; Preview
+;
+MSG_TOOLBAR_ENABLED
+Barra d'eines activada
+; Toolbar Enabled
+;
+MSG_ICONSPREFS
+Aspecte i comportament de les icones
+; Icons look and feel
+;
+MSG_ICONLISTMODE
+Mode de llista d'icones
+; Icon listmode
+;
+MSG_ICONLISTMODE_PLAIN
+Llistar les icones de forma simple
+; List icons plainly
+;
+MSG_ICONLISTMODE_GRID
+Llistar les icones en graella
+; List icons by grid
+;
+MSG_ICONTEXTMODE
+Mode de dibuix del text de les icones
+; Icons text drawmode
+;
+MSG_ICONTEXTMODE_OUTLINE
+Contorn
+; Outline
+;
+MSG_ICONTEXTMODE_PLAIN
+Simple
+; Plain
+;
+MSG_ICONTEXTMODE_SHADOW
+Ombra
+; Drop shadow
+;
+MSG_ICONTEXTLENGTH
+Longitud màx. del text d'icona
+; Max icon textlength
+;
+MSG_DOUBLEBUFFERED
+doble memòria intermèdia
+; double buffering
+;
+MSG_MISC
+miscel·lània
+; misc
+;
+MSG_BUBBLESCREENTITLE
+%pc = Ram Chip lliure\n%pf = Ram Fast lliure\n%pt = Ram total lliure\n%PC = Ram Chip\n%PF = Ram Fast\n%PT = Ram total\n%os = versió d'AROS\n%wb = versió de Wanderer\n%ov = versió exacta d'AROS\n%wv = versió exacta de workbench.library
+; %pc = Chip Ram free\n%pf = Fast Ram free\n%pt = Total Ram free\n%PC = Chip Ram\n%PF = Fast Ram\n%PT = Total Ram\n%os = AROS version\n%wb = Wanderer version\n%ov = Exact AROS version\n%wv = Exact workbench.library version
+;
+MSG_TILEMODE
+Mode de mosaic :
+; Tile mode :
+;
+MSG_XOFFSET
+Desplaçament X :
+; X Offset :
+;
+MSG_YOFFSET
+Desplaçament Y :
+; Y Offset :
+;
+MSG_ICONLABELFONT
+Tipus de lletra de l'etiqueta de la icona...
+; Icon Label Font...
+;
+MSG_ICONINFOFONT
+Tipus de lletra de la informació de la icona...
+; Icon Info Font...
+;
+MSG_HORIZSPACINGICON
+Espaiat horitzontal entre icones
+; Horizontal spacing between icons
+;
+MSG_VERTSPACINGICON
+Espaiat vertical entre icones
+; Vertical spacing between icons
+;
+MSG_PADDINGICONIMAGELABEL
+Separació entre la imatge de la icona i l'etiqueta
+; Padding between Icon Image and Label
+;
+MSG_HORIZPADDINGLABELTEXT
+Separació horitzontal entre el marc de l'etiqueta i el text
+; Horizontal Padding between Label Frame and Text
+;
+MSG_VERTPADDINGLABELTEXT
+Separació vertical entre el marc de l'etiqueta i el text
+; Vertical Padding between Label Frame and Text
+;
+MSG_FRAMEWIDTH
+Amplada del marc de l'etiqueta
+; Label Frame Width
+;
+MSG_FRAMEHEIGHT
+Alçada del marc de l'etiqueta
+; Label Frame Height
+;
+MSG_TILED
+En mosaic
+; Tiled
+;
+MSG_SCALED
+Escalat
+; Scaled
+;
+MSG_FLOATING
+Flotant
+; Floating
+;
+MSG_FIXED
+Fix
+; Fixed
+;
+MSG_LABELLINELENGTH
+Long. màx. de línia de l'etiqueta...
+; Max. Label line length...
+;
+MSG_USEMULTILINELABELS
+Utilitzar etiquetes multilínia
+; Use MultiLine Labels
+;
+MSG_SHOWFOCUSEDICON
+Mostrar només per a la icona amb focus
+; Only show for Focus(ed) Icon
+;
+MSG_NDISPLAYLINES
+Nre. de línies a mostrar...
+; No. of lines to display...
+;
+MSG_TILEMODEOPTIONS
+Opcions del mode de mosaic...
+; Tile Mode Options...
+;
+MSG_SCALEMODEOPTIONS
+Opcions del mode d'escalat...
+; Scale Mode Options...
+;
+MSG_ADVANCEDOPTIONS
+Opcions avançades...
+; Advanced Options...
+;
+MSG_BACKGROUNDOPTIONS
+Opcions del fons...
+; Background Options...
+;
+MSG_DRAWMODE
+Mode de dibuix :
+; Draw mode :
+;
+MSG_USERFILEONWB
+Carpeta de fitxers d'usuari al Workbench
+; User Files Folder on Workbench
+;
+MSG_NETWORKONWB
+Navegador de xarxa al Workbench
+; Network Browser on Workbench
+;
+MSG_VIEWSETTINGS
+Paràmetres de visualització
+; View Settings
+;
+MSG_WANDERERSCREENTITLE
+Títol de pantalla de Wanderer
+; Wanderer ScreenTitle
+;
+MSG_ADVANCED
+Avançat
+; Advanced
+;
+MSG_USE
+_Usar
+; _Use
+;
+MSG_CANCEL
+C_ancel·lar
+; C_ancel
+;
+MSG_LABELSPREFS
+Aspecte i comportament de les etiquetes
+; Labels look and feel
+;
+MSG_ADVANCEDBACKGROUND
+Fons
+; Background
+;
+MSG_ADVANCEDICONS
+Icones
+; Icons
+;
+MSG_ADVANCEDLABELS
+Etiquetes
+; Labels
+;
+MSG_ICONSORTMODE_BYNAME
+Per nom
+; By name
+;
+MSG_ICONSORTMODE_BYDATE
+Per data
+; By date
+;
+MSG_ICONSORTMODE_BYSIZE
+Per mida
+; By size
+;
+MSG_DEFAULT_ICONSORTMODE
+Ordenació per defecte
+; Default sort order
+;
+MSG_ICON_AUTOSORT_ENABLED
+Ordenació automàtica activada
+; Autosorting enabled
+;
+MSG_ICON_DRAG_TRANSPARENT
+Utilitzar transparència en arrossegar les icones
+; Use transparency when draging icons
+;
+MSG_DEFAULT_ICONVIEWMODE
+Mode de vista per defecte
+; Default view mode
+;
+MSG_ICONVIEWMODE_ALL
+Tots els fitxers
+; All files
+;
+MSG_ICONVIEWMODE_ICONS
+Només icones
+; Icons only
+;
+MSG_ICONDROPMODE
+Copiar o moure fitxers situats al mateix dispositiu
+; Copy or move files placed on same device
+;
+MSG_ICONDROPMODE_MOVE
+Moure
+; Move
+;
+MSG_ICONDROPMODE_COPY
+Copiar
+; Copy
+;

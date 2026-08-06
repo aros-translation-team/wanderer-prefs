@@ -1,0 +1,312 @@
+## version $VER: wanderer.catalog 3.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_NAME
+Wanderer Tercihleri
+; Wanderer Prefs
+;
+MSG_DESCRIPTION
+Wanderer tercihleri
+; Wanderer preferences
+;
+MSG_BACKGROUNDS
+Arkaplanlar
+; Backgrounds
+;
+MSG_BACKGROUND_WORKBENCH
+Workbench
+; Workbench
+;
+MSG_BACKGROUND_DRAWERS
+Çekmeceler
+; Drawers
+;
+MSG_SELECT_WORKBENCH_BACKGROUND
+Workbench Arkaplanýný Seç
+; Select Workbench Background
+;
+MSG_SELECT_DRAWER_BACKGROUND
+Çekmece Arkaplanýný Seç
+; Select Drawer Background
+;
+MSG_GENERAL
+Genel
+; General
+;
+MSG_APPEARANCE
+Görünüm
+; Appearance
+;
+MSG_TOOLBAR
+Araç Çubuðu
+; Toolbar
+;
+MSG_CLASSIC
+Klasik
+; Classic
+;
+MSG_ENHANCED
+Geliþtirilmiþ
+; Enhanced
+;
+MSG_NAVIGATION
+Navigasyon
+; Navigation
+;
+MSG_METHOD
+Yöntem
+; Method
+;
+MSG_OBJECTS
+Nesneler
+; Objects
+;
+MSG_PREVIEW
+Önizleme
+; Preview
+;
+MSG_TOOLBAR_ENABLED
+Araç Çubuðu Etkin
+; Toolbar Enabled
+;
+MSG_ICONSPREFS
+Simgelerin görünümü ve tarzý
+; Icons look and feel
+;
+MSG_ICONLISTMODE
+Simge liste modu
+; Icon listmode
+;
+MSG_ICONLISTMODE_PLAIN
+Simgeleri düz listele
+; List icons plainly
+;
+MSG_ICONLISTMODE_GRID
+Simgeleri ýzgaraya göre listele
+; List icons by grid
+;
+MSG_ICONTEXTMODE
+Simge metni çizim modu
+; Icons text drawmode
+;
+MSG_ICONTEXTMODE_OUTLINE
+Dýþ çizgi
+; Outline
+;
+MSG_ICONTEXTMODE_PLAIN
+Düz
+; Plain
+;
+MSG_ICONTEXTMODE_SHADOW
+Gölge
+; Drop shadow
+;
+MSG_ICONTEXTLENGTH
+En fazla simge metin uzunluðu
+; Max icon textlength
+;
+MSG_DOUBLEBUFFERED
+çift tamponlama
+; double buffering
+;
+MSG_MISC
+çeþitli
+; misc
+;
+MSG_BUBBLESCREENTITLE
+%pc = Boþ Chip Ram\n%pf = Boþ Fast Ram\n%pt = Toplam boþ Ram\n%PC = Chip Ram\n%PF = Fast Ram\n%PT = Toplam Ram\n%os = AROS sürümü\n%wb = Wanderer sürümü\n%ov = Tam AROS sürümü\n%wv = Tam workbench.library sürümü
+; %pc = Chip Ram free\n%pf = Fast Ram free\n%pt = Total Ram free\n%PC = Chip Ram\n%PF = Fast Ram\n%PT = Total Ram\n%os = AROS version\n%wb = Wanderer version\n%ov = Exact AROS version\n%wv = Exact workbench.library version
+;
+MSG_TILEMODE
+Döþeme modu :
+; Tile mode :
+;
+MSG_XOFFSET
+X Ofseti :
+; X Offset :
+;
+MSG_YOFFSET
+Y Ofseti :
+; Y Offset :
+;
+MSG_ICONLABELFONT
+Simge Etiket Yazý Tipi...
+; Icon Label Font...
+;
+MSG_ICONINFOFONT
+Simge Bilgi Yazý Tipi...
+; Icon Info Font...
+;
+MSG_HORIZSPACINGICON
+Simgeler arasýndaki yatay aralýk
+; Horizontal spacing between icons
+;
+MSG_VERTSPACINGICON
+Simgeler arasýndaki dikey aralýk
+; Vertical spacing between icons
+;
+MSG_PADDINGICONIMAGELABEL
+Simge Görüntüsü ile Etiket Arasýndaki Boþluk
+; Padding between Icon Image and Label
+;
+MSG_HORIZPADDINGLABELTEXT
+Etiket Çerçevesi ile Metin Arasýndaki Yatay Boþluk
+; Horizontal Padding between Label Frame and Text
+;
+MSG_VERTPADDINGLABELTEXT
+Etiket Çerçevesi ile Metin Arasýndaki Dikey Boþluk
+; Vertical Padding between Label Frame and Text
+;
+MSG_FRAMEWIDTH
+Etiket Çerçevesi Geniþliði
+; Label Frame Width
+;
+MSG_FRAMEHEIGHT
+Etiket Çerçevesi Yüksekliði
+; Label Frame Height
+;
+MSG_TILED
+Döþeli
+; Tiled
+;
+MSG_SCALED
+Ölçekli
+; Scaled
+;
+MSG_FLOATING
+Kayan
+; Floating
+;
+MSG_FIXED
+Sabit
+; Fixed
+;
+MSG_LABELLINELENGTH
+Maks. Etiket satýr uzunluðu...
+; Max. Label line length...
+;
+MSG_USEMULTILINELABELS
+Çok Satýrlý Etiketler Kullan
+; Use MultiLine Labels
+;
+MSG_SHOWFOCUSEDICON
+Yalnýzca Odaklanmýþ Simge için göster
+; Only show for Focus(ed) Icon
+;
+MSG_NDISPLAYLINES
+Gösterilecek satýr sayýsý...
+; No. of lines to display...
+;
+MSG_TILEMODEOPTIONS
+Döþeme Modu Seçenekleri...
+; Tile Mode Options...
+;
+MSG_SCALEMODEOPTIONS
+Ölçekleme Modu Seçenekleri...
+; Scale Mode Options...
+;
+MSG_ADVANCEDOPTIONS
+Geliþmiþ Seçenekler...
+; Advanced Options...
+;
+MSG_BACKGROUNDOPTIONS
+Arkaplan Seçenekleri...
+; Background Options...
+;
+MSG_DRAWMODE
+Çizim modu :
+; Draw mode :
+;
+MSG_USERFILEONWB
+Workbench'te Kullanýcý Dosyalarý Klasörü
+; User Files Folder on Workbench
+;
+MSG_NETWORKONWB
+Workbench'te Að Tarayýcýsý
+; Network Browser on Workbench
+;
+MSG_VIEWSETTINGS
+Görünüm Ayarlarý
+; View Settings
+;
+MSG_WANDERERSCREENTITLE
+Wanderer Ekran Baþlýðý
+; Wanderer ScreenTitle
+;
+MSG_ADVANCED
+Geliþmiþ
+; Advanced
+;
+MSG_USE
+K_ullan
+; _Use
+;
+MSG_CANCEL
+V_azgeç
+; C_ancel
+;
+MSG_LABELSPREFS
+Etiketlerin görünümü ve tarzý
+; Labels look and feel
+;
+MSG_ADVANCEDBACKGROUND
+Arkaplan
+; Background
+;
+MSG_ADVANCEDICONS
+Simgeler
+; Icons
+;
+MSG_ADVANCEDLABELS
+Etiketler
+; Labels
+;
+MSG_ICONSORTMODE_BYNAME
+Ada göre
+; By name
+;
+MSG_ICONSORTMODE_BYDATE
+Tarihe göre
+; By date
+;
+MSG_ICONSORTMODE_BYSIZE
+Boyuta göre
+; By size
+;
+MSG_DEFAULT_ICONSORTMODE
+Varsayýlan sýralama düzeni
+; Default sort order
+;
+MSG_ICON_AUTOSORT_ENABLED
+Otomatik sýralama etkin
+; Autosorting enabled
+;
+MSG_ICON_DRAG_TRANSPARENT
+Simgeleri sürüklerken saydamlýk kullan
+; Use transparency when draging icons
+;
+MSG_DEFAULT_ICONVIEWMODE
+Varsayýlan görünüm modu
+; Default view mode
+;
+MSG_ICONVIEWMODE_ALL
+Tüm dosyalar
+; All files
+;
+MSG_ICONVIEWMODE_ICONS
+Yalnýzca simgeler
+; Icons only
+;
+MSG_ICONDROPMODE
+Ayný aygýta býrakýlan dosyalarý kopyala veya taþý
+; Copy or move files placed on same device
+;
+MSG_ICONDROPMODE_MOVE
+Taþý
+; Move
+;
+MSG_ICONDROPMODE_COPY
+Kopyala
+; Copy
+;
